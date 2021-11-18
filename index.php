@@ -26,5 +26,4 @@
 		<img src="https://mystickermania.com/cdn/stickers/memes/kermit-the-frog-in-love-meme-512x512.png">
 	<script>(function(w, d) { w.CollectId = "6193b36411c7462f21defd3a"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 	</body>
-	<?php echo 'oui' ?>
 </html>
